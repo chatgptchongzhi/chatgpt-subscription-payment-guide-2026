@@ -1,0 +1,4 @@
+# Project-level reference. Crawlers use /robots.txt at the host root.
+User-agent: *
+Allow: /
+Sitemap: https://chatgptchongzhi.github.io/chatgpt-subscription-payment-guide-2026/sitemap.xml
